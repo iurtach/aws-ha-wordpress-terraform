@@ -40,9 +40,8 @@ Follow these steps to spin up the infrastructure:
   3. **Apply the Configuration: Deploy the resources. (Confirm with yes when prompted).
   terraform apply
 
-  ### 🧜‍♂️ Final Step: The Mermaid Diagram
+  
 
-```markdown
 ## 🗺️ Infrastructure Map
 
 ```mermaid
